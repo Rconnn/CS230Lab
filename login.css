@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+
+}
+
+.bg-cover {
+    background-image: url("CarbonFiber.jpg");
+    height: 120vh;
+    width: 1400px;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+.center-me{
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+.form-signin{
+    padding: 20px;
+    text-align: center;
+}
